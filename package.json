@@ -1,0 +1,16 @@
+{
+  "name": "instagram-private-viewer",
+  "version": "1.0.0",
+  "description": "Educational tool to demonstrate Instagram private post extraction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@vercel/node": "^2.15.10"
+  }
+}
